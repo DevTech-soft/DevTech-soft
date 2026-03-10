@@ -11,7 +11,7 @@ Construyendo aplicaciones modernas, plataformas SaaS y soluciones digitales esca
 ---
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=DevTech-soft&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=DevTech-soft&count_private=true&show_icons=true&theme=tokyonight"/>
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevTech-soft&layout=compact&theme=tokyonight"/>
 </p>
 
