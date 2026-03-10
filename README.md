@@ -166,9 +166,7 @@ Backend API
 
 # 🌐 Portafolio
 
-Actualmente desarrollando mi portafolio profesional.
-
-Próximamente disponible.
+https://portfolio-nine-weld-wztfj1mbaa.vercel.app/
 
 ---
 
